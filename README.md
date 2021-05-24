@@ -6,9 +6,9 @@ To do that we combined the food production worldwide of different type of alimen
 
 On this way we are able to see how much the production of the type of aliments that are eaten in each diet consume
 
-Presentation (Tableau): https://public.tableau.com/views/Beveganmoreecofriendly/Story1?:language=en-GB&:display_count=y&:origin=viz_share_link
+**Presentation (Tableau): https://public.tableau.com/views/Beveganmoreecofriendly/Story1?:language=en-GB&:display_count=y&:origin=viz_share_link**
 
-# For Jupyter notebook (python) We follow the next steps:
+# For Jupyter notebook (python), we follow the next steps:
 1.	Collecting the data, we took the date from 2 webpages: FAO Food and Agriculture Organization and Kaggle.
 2.	After having all the data, we visualize it and saw how we can merge it.
 3.	First, we merge the FAO data sets vertically.
@@ -16,11 +16,11 @@ Presentation (Tableau): https://public.tableau.com/views/Beveganmoreecofriendly/
 5.	The next step is to mix all data sets once we have done the previous match and clean the joins.
 6.	The last steps are to export the final file (csv), import it in tableau and create the presentation.
 
-# In tableau we follow the next steps.
+# For tableau, we follow the next steps.
 1.	We imported the previous created csv
 2.	To define how much pollute each diet, we established a percentage of how much cereals, vegetables, dairy products, meat… each diet eat.
 3.	The final result is a map, in which we can see how much different diets pollute worldwide or in each country.
 
-As a conclusion we can say that being vegetarian is the diet with less pollute worldwide.
+As a conclusion we can say that being **vegetarian** is the diet with less pollute worldwide.
 
 
