@@ -20,7 +20,7 @@ Presentation (Tableau): https://public.tableau.com/views/Beveganmoreecofriendly/
 1.	We imported the previous created csv
 2.	To define how much pollute each diet, we established a percentage of how much cereals, vegetables, dairy products, meat… each diet eat.
 3.	The final result is a map, in which we can see how much different diets pollute worldwide or in each country.
-4.	
+
 As a conclusion we can say that being vegetarian is the diet with less pollute worldwide.
 
 
