@@ -23,6 +23,7 @@ To do that we have to creates and extra file in order to match categories of bot
 3.	The final result is a map, in which we can see how much different diets pollute worldwide or in each country.
 
 **As a conclusion we can say that being vegetarian is the diet with less pollute worldwide.**
-![food_facts](https://user-images.githubusercontent.com/79746831/119650550-3dcedf80-be24-11eb-919b-f56817739e6f.png)
+![food_facts](https://user-images.githubusercontent.com/79746831/119650664-5e973500-be24-11eb-9eda-1309640067b3.png)
+
 
 
